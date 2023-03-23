@@ -1,5 +1,6 @@
 
 # Hakkımda
+
 Bu projede bir adet index.html dosyası, bir adet README.md dosyası ve iki adet jpg dosyası vardır. Bu projede kendim hakkımda kısa bir bilgiye yer verdim. Ayrıca sevdiğim filmler, diziler ve kitaplardan bahsettim.
 
 ---

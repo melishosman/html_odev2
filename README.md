@@ -1,8 +1,15 @@
 
 # Hakkımda
-Bu repoda bir adet index.html dosyası, bir adet README.md dosyası ve iki adet jpeg dosyası vardır. index.html dosyası içerisinde kendim hakkımda kısa bir bilgiye yer verdim. Ayrıca sevdiğim filmler, diziler ve kitaplardan bahsettim.
+Bu projede bir adet index.html dosyası, bir adet README.md dosyası ve iki adet jpg dosyası vardır. Bu projede kendim hakkımda kısa bir bilgiye yer verdim. Ayrıca sevdiğim filmler, diziler ve kitaplardan bahsettim.
 
-![ilkwebsayfasi_odev1_gorsel](img/ilkwebsayfam.png)
+---
+
+## Projenin Ön Görünümü
+
+![odev2_foto1](img/odev2_foto1.jpg)
+![odev2_foto2](img/odev2_foto2.jpg)
+
+---
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
